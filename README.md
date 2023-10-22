@@ -5,21 +5,17 @@
 
 ### How to reach me:
 ---
-<ul>
-  <li>Email: <a href= "" >najmulhoq95@gmail.com</a> </li>
-  <li>LinkedIn: https://www.linkedin.com/in/hoq-najmul</li>
-  <li>Facebook: https://facebook.com/najmul.nsu</li>
-<!--   <li>Blog: https://dev.to/najmul</li> -->
-<!--   <li>Twitter: https://twitter.com/najmul</li> -->
-  <li>GitHub: https://github.com/najmul-github</li>
-</ul>
+- Email: [najmulhoq95@gmail.com](mailto:najmulhoq95@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/hoq-najmul
+- Facebook: https://facebook.com/najmul.nsu
+- GitHub: https://github.com/najmul-github
 
 ### My CV/Resume:
 ---
 You can see and download the PDF copy of my latest resume below 👇
 <ul>
   <li><a href="https://drive.google.com/file/d/1znGq9Qf3-3_17YNniCB6dB-95m_v-vTF/view?usp=sharing">Google Drive</a></li>
-  <li> <a href="https://github.com/najmul-github/resume/blob/f547e95cf16be43ab3a7d8d0241b3a78038ff008/Najmul%20Hoq.pdf">GitHub view</a></li>
+  <li> <a href="https://github.com/najmul-github/resume/blob/f547e95cf16be43ab3a7d8d0241b3a78038ff008/Najmul%20Hoq.pdf">GitHub View</a></li>
 </ul>
 
 <!--
