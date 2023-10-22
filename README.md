@@ -1,16 +1,15 @@
-### Hi there 👋
+### [Hi there 👋](https://github.com/najmul-github)
 ---
-<span class="border-bottom"></span>
 <p>Thanks for visiting my profile. I'm a software engineer based in Dhaka.</p>
 
-### How to reach me:
+### [How to reach me:](https://github.com/najmul-github)
 ---
 - Email: [najmulhoq95@gmail.com](mailto:najmulhoq95@gmail.com)
-- LinkedIn: https://www.linkedin.com/in/hoq-najmul
-- Facebook: https://facebook.com/najmul.nsu
-- GitHub: https://github.com/najmul-github
+- LinkedIn: [https://www.linkedin.com/in/hoq-najmul](https://www.linkedin.com/in/hoq-najmul)
+- Facebook: [https://facebook.com/najmul.nsu](https://facebook.com/najmul.nsu)
+- GitHub: [https://github.com/najmul-github](https://github.com/najmul-github)
 
-### My CV/Resume:
+### [My CV/Resume:](https://github.com/najmul-github)
 ---
 You can see and download the PDF copy of my latest resume below 👇
 <ul>
