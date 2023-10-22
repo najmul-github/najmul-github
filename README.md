@@ -3,8 +3,8 @@
 <span class="border-bottom"></span>
 <p>Thanks for visiting my profile. I'm a software engineer based in Dhaka.</p>
 
----
 ### How to reach me:
+---
 <ul>
   <li>Email: <a href= "" >najmulhoq95@gmail.com</a> </li>
   <li>LinkedIn: https://www.linkedin.com/in/hoq-najmul</li>
@@ -14,8 +14,8 @@
   <li>GitHub: https://github.com/najmul-github</li>
 </ul>
 
----
 ### My CV/Resume:
+---
 You can see and download the PDF copy of my latest resume below 👇
 <ul>
   <li><a href="https://drive.google.com/file/d/1znGq9Qf3-3_17YNniCB6dB-95m_v-vTF/view?usp=sharing">Google Drive</a></li>
