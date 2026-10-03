@@ -13,8 +13,7 @@
 ---
 You can see and download the PDF copy of my latest resume below 👇
 <ul>
-  <li><a href="https://drive.google.com/file/d/1YKmHmXq7ARTa18w1GfIySEl9mhYfq8yw/view?usp=sharing">Google Drive</a></li>
-  <li> <a href="https://github.com/najmul-github/resume/blob/main/Najmul%20Hoq_.pdf">GitHub View</a></li>
+  <li><a href="https://drive.google.com/file/d/1-9DNq8eGvgahYP76PLLVNq5nyeHOvgcT/view?usp=sharing">Google Drive</a></li>
 </ul>
 
 <!--
